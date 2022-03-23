@@ -1,3 +1,5 @@
+<-- I am a dog person-->
+
 <p align="center">
   <img width="30%" src="./lang.gif" alt="lang image here" />
 </p>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="./lang.gif" alt="lang image here" />
+  <img width="30%" src="./lang.gif" alt="lang image here" />
 </p>
 
 <!--
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img width="100%" src="./projects.gif" alt="lang image here" />
+  <img width="30%" src="./projects.gif" alt="lang image here" />
 </p>

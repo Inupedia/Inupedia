@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img width="100%" src="./lang.gif" alt="lang image here" />
+</p>
 
 <!--
 **Inupedia/Inupedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img width="100%" src="./projects.gif" alt="lang image here" />
+</p>

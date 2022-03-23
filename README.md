@@ -2,7 +2,7 @@
   <img width="30%" src="./lang.gif" alt="lang image here" />
 </p>
 
-<h3 align="center">I'm Inupedia, a programming enthusiast from the Dog Kingdom.</h3>
+<h3 align="center">I'm Pengju, a programming enthusiast from China.</h3>
 
 
 ## Skills:

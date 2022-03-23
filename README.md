@@ -5,7 +5,7 @@
 <h3 align="center">I'm Pengju, a programming enthusiast from China.</h3>
 
 <p align="center">
-  <img width="30%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="lang image here" />
+  <img width="50%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="lang image here" />
 </p>
 
 ## Skills:

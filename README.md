@@ -5,7 +5,7 @@
 
 <h3 align="center">I'm Pengju, a programming enthusiast from China.</h3>
 
-### Current working on:
+### Currently working on:
 - Flood forecasting & high dimensional flow model (Irrigation System)
 - Portfolio with Three.js and Blender
 
